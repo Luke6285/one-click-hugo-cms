@@ -26,5 +26,3 @@ Email <input type="email" name="email" /></input>
 <button type="submit">Send</button>
 
 </form>
-
-Gay
